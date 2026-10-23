@@ -1,14 +1,24 @@
 <div align="center">
   <h1>Furkan Ertürk</h1>
   <p><strong>Cyber Security Specialist • IT Specialist & Software Developer at Ark Ship Supply</strong></p>
-  <p>Architect & Developer behind <a href="https://www.thevulpes.dev"><strong>The Vulpes</strong></a>.</p>
+  <p>Architect & Developer behind <a href="https://www.thevulpes.dev"><strong>The Vulpes</strong></a></p>
 
-  <p>
-    <a href="https://www.thevulpes.dev/cv-tr.html"><img src="https://img.shields.io/badge/📄_CV-Türkçe_(PDF/Web)-EA580C?style=for-the-badge" alt="CV Türkçe" /></a>
-    <a href="https://www.thevulpes.dev/cv-en.html"><img src="https://img.shields.io/badge/📄_Resume-English_(PDF/Web)-0F172A?style=for-the-badge" alt="Resume English" /></a>
-    <a href="https://www.thevulpes.dev"><img src="https://img.shields.io/badge/Portfolio-thevulpes.dev-18181B?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/furkanerturk/"><img src="https://img.shields.io/badge/LinkedIn-Furkan_Ertürk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:info@thevulpes.dev"><img src="https://img.shields.io/badge/Email-info@thevulpes.dev-18181B?style=for-the-badge&logo=maildotru&logoColor=EA580C" alt="Email" /></a>
+  <p align="center">
+    <a href="https://www.thevulpes.dev/cv-tr.html" title="CV (Türkçe)">
+      <img src="assets/badges/cv-tr.svg" alt="CV Türkçe" height="34" />
+    </a>
+    <a href="https://www.thevulpes.dev/cv-en.html" title="Resume (English)">
+      <img src="assets/badges/cv-en.svg" alt="Resume English" height="34" />
+    </a>
+    <a href="https://www.thevulpes.dev" title="The Vulpes Portfolio">
+      <img src="assets/badges/vulpes.svg" alt="The Vulpes" height="34" />
+    </a>
+    <a href="https://www.linkedin.com/in/furkanerturk/" title="LinkedIn: Furkan Ertürk">
+      <img src="assets/badges/linkedin.svg" alt="LinkedIn" height="34" />
+    </a>
+    <a href="mailto:info@thevulpes.dev" title="Direct Email">
+      <img src="assets/badges/email.svg" alt="Email" height="34" />
+    </a>
   </p>
 </div>
 
