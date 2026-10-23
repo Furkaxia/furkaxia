@@ -1,10 +1,12 @@
 <div align="center">
   <h1>Furkan Ertürk</h1>
-  <p><strong>Cyber Security Specialist • IT & Software Developer at Ark Ship Supply • AI Prompt Engineer</strong></p>
-  <p>Architect & Builder behind <a href="https://thevulpes.dev"><strong>The Vulpes</strong></a> ecosystem.</p>
+  <p><strong>Cyber Security Specialist • IT Specialist & Software Developer at Ark Ship Supply</strong></p>
+  <p>Architect & Developer behind <a href="https://www.thevulpes.dev"><strong>The Vulpes</strong></a>.</p>
 
   <p>
-    <a href="https://thevulpes.dev"><img src="https://img.shields.io/badge/Portfolio-thevulpes.dev-EA580C?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.thevulpes.dev/cv-tr.html"><img src="https://img.shields.io/badge/📄_CV-Türkçe_(PDF/Web)-EA580C?style=for-the-badge" alt="CV Türkçe" /></a>
+    <a href="https://www.thevulpes.dev/cv-en.html"><img src="https://img.shields.io/badge/📄_Resume-English_(PDF/Web)-0F172A?style=for-the-badge" alt="Resume English" /></a>
+    <a href="https://www.thevulpes.dev"><img src="https://img.shields.io/badge/Portfolio-thevulpes.dev-18181B?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/furkanerturk/"><img src="https://img.shields.io/badge/LinkedIn-Furkan_Ertürk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:info@thevulpes.dev"><img src="https://img.shields.io/badge/Email-info@thevulpes.dev-18181B?style=for-the-badge&logo=maildotru&logoColor=EA580C" alt="Email" /></a>
   </p>
@@ -12,71 +14,70 @@
 
 ---
 
-### 💼 Current Focus & Professional Role
+### 💼 Professional Overview & Role
 
-* 🚢 Currently working as **IT Specialist & Software Developer** at **Ark Ship Supply**, designing maritime logistics automation, scheduled dispatch queues, and network infrastructure.
-* 🦊 Architecting **The Vulpes Ecosystem** ([thevulpes.dev](https://thevulpes.dev)) — focused on high-speed desktop reconciliation, dual-platform streaming bots, and cybersecurity log parsing engines.
-* 🛡️ Academic background in **Cyber Security**, specializing in zero-leakage enterprise workflows, KVKK compliance, and defensive system architecture.
-* 🤖 Engineering advanced **AI Prompt Workflows** for structured automation, eliminating manual data entry overhead.
+* 🚢 Currently working as **IT Specialist & Software Developer** at **Ark Ship Supply**, managing internal server systems, network infrastructure, and automated dispatch workflows.
+* 🦊 Developing **The Vulpes** ([thevulpes.dev](https://www.thevulpes.dev)) — focused on high-precision desktop document reconciliation, dual-platform community bots, and system audit utilities.
+* 🛡️ Academic degree in **Cyber Security**, emphasizing zero-leakage workflows, KVKK/data privacy compliance, and defensive infrastructure management.
 
 ---
 
-### 🚀 Flagship Systems & Production Projects
+### 🚀 Featured Projects & Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🦊 <a href="https://thevulpes.dev/projects/vulp-sync">Vulp Sync Pro</a></h4>
-      <p>Intelligent e-Invoice & expense voucher reconciliation platform. Uses <strong>PDF.js</strong> and Web Worker streaming to diff thousands of records, identify cent/VAT discrepancies, and format 100-batch sorted print outputs.</p>
-      <sub><strong>Stack:</strong> JavaScript ESNext, PDF.js Engine, Web Workers, SheetJS, Tailwind CSS</sub>
+      <h4>🦊 <a href="https://www.thevulpes.dev/projects/vulp-sync">Vulp Sync Pro</a></h4>
+      <p>Desktop reconciliation and financial matching engine. Scans expense vouchers, e-invoices, and bank statements to isolate discrepancies and error lines with high accuracy.</p>
+      <sub><strong>Stack:</strong> JavaScript ESNext, PDF.js Engine, SheetJS, Web APIs, Tailwind CSS</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://thevulpes.dev/projects/furkaxia-bot">FurkaxiaBot (Discord & Kick)</a></h4>
-      <p>Dual-platform live stream & community moderation assistant running 24/7 on <strong>PM2</strong>. Bridges Kick chat events and WebSocket telemetry directly to Discord rich embeds with autonomous clip dispatch.</p>
-      <sub><strong>Stack:</strong> Node.js, Discord.js v14, Kick WebSocket, PM2 Cluster, LowDB</sub>
+      <h4>🤖 <a href="https://www.thevulpes.dev/projects/furkaxia-bot">FurkaxiaBot (Discord & Kick)</a></h4>
+      <p>Dual-platform community and live stream integration bot running 24/7 on <strong>PM2</strong>. Connects Kick events and WebSocket telemetry directly to Discord with automated clip sharing and moderation.</p>
+      <sub><strong>Stack:</strong> Node.js, Discord.js v14, Kick WebSocket, PM2 Cluster, REST API</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔍 <a href="https://thevulpes.dev/projects/python-log-analyzer">Python Log Analyzer & Audit Core</a></h4>
-      <p>High-throughput command-line log auditing engine. Streams gigabytes of Nginx, Apache, and Syslog logs with low memory consumption to isolate brute-force IPs, SQLi patterns, and HTTP error distributions.</p>
-      <sub><strong>Stack:</strong> Python 3.11, Multiprocessing, Streaming Regex, Rich CLI</sub>
+      <h4>🔍 <a href="https://www.thevulpes.dev/projects/python-log-analyzer">Python Log Analyzer & Security Audit</a></h4>
+      <p>Automated log inspection tool scanning Syslog and Nginx access logs via RegEx patterns to detect brute-force attempts, SQL injections, and abnormal traffic patterns.</p>
+      <sub><strong>Stack:</strong> Python 3.11, RegEx Streaming, Syslog Audit</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🚢 <a href="https://thevulpes.dev/projects/mail-automation-arkship">Ark Ship Supply Mail Automation</a></h4>
-      <p>Mission-critical scheduled SMTP queue engine handling daily port clearance and crew transit dispatches. Features exponential backoff retry pools and dynamic HTML templating (KVKK-compliant).</p>
-      <sub><strong>Stack:</strong> Node.js, Nodemailer Pool, Node-Cron, Winston Logs</sub>
+      <h4>🚢 <a href="https://www.thevulpes.dev/projects/mail-automation-arkship">Ark Ship Supply Mail Automation</a></h4>
+      <p>Scheduled SMTP automation service handling maritime vessel clearance notices and operational daily dispatches (izin.arkshipsupply.com) with high reliability.</p>
+      <sub><strong>Stack:</strong> Node.js, SMTP Protocol, Node-Cron</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Core Stack & Engineering Toolchain
+### 🛠️ Core Toolchain & Competencies
 
 ```
-Cyber Security & Systems  : Linux (Bash), Syslog & Nginx Auditing, RFC 9116 security.txt, Network Security, KVKK Isolation
-Languages & Runtimes      : Python 3.11, JavaScript (ESNext), TypeScript, Node.js LTS
-Bots & Real-Time Engines  : Discord.js v14, Kick WebSocket Client, PM2 Process Manager, Node-Cron
-Document & Data Pipelines : PDF.js Engine, Streaming Parsers, SheetJS XLSX, PostgreSQL, SQLite, REST
-UI & Web Engineering      : React 18, Tailwind CSS v3, Vite, Responsive Systems, Modern CAD Schematics
+Systems & Infrastructure  : Windows Server, Linux (Ubuntu/Debian), HP iLO, Dell iDRAC, Active Directory, PM2, Bash
+Network & Cyber Security  : TCP/IP, VLAN, DNS, DHCP, Syslog & Nginx Log Auditing, KVKK & Data Protection
+Programming & Automation  : JavaScript (ESNext), Node.js, Python 3.11, Discord.js v14, WebSocket Client, Node-Cron, SMTP
+Web & UI Engineering      : React, Tailwind CSS, Modern Web APIs, PDF.js Engine, SheetJS, SQL
 ```
 
 ---
 
 ### 🇹🇷 Hakkımda (Özet)
 
-> **Siber Güvenlik** mezunuyum; güncel olarak **Ark Ship Supply** firmasında **IT Uzmanı & Yazılım Geliştirici** olarak görev almaktayım. Liman izin süreçleri, kurumsal ağ yönetimi ve SMTP otomasyonlarının yanı sıra, kişisel markam **The Vulpes** altında muhasebe mutabakat motorları (*Vulp Sync*), 7/24 kesintisiz çalışan yayın/topluluk botları (*FurkaxiaBot*) ve Python log denetim sistemleri geliştiriyorum. Projelerimde veri gizliliği, hata toleransı ve sıfır sızıntı ilkelerini temel alıyorum.
+> **Siber Güvenlik** mezunuyum; güncel olarak **Ark Ship Supply** firmasında **IT Sorumlusu & Yazılım Geliştirici** olarak görev almaktayım. Sunucu altyapısı, ağ güvenliği ve kurum içi SMTP otomasyonlarının yanı sıra, kişisel markam **The Vulpes** altında muhasebe mutabakat motorları (*Vulp Sync Pro*), 7/24 çalışan çok platformlu yayın botları (*FurkaxiaBot*) ve log denetim sistemleri geliştiriyorum. Sistem sürekliliği, veri gizliliği ve kurumsal süreçlerin dijitalleştirilmesini temel ilke ediniyorum.
 
 ---
 
 ### 📬 Connect & Direct Inquiries
 
-* **Portfolio & Live Showcase:** [thevulpes.dev](https://thevulpes.dev)
+* **Özgeçmiş (Türkçe):** [thevulpes.dev/cv-tr.html](https://www.thevulpes.dev/cv-tr.html)
+* **Resume (English):** [thevulpes.dev/cv-en.html](https://www.thevulpes.dev/cv-en.html)
+* **Portfolio Showcase:** [thevulpes.dev](https://www.thevulpes.dev)
 * **Direct Email:** [info@thevulpes.dev](mailto:info@thevulpes.dev)
 * **LinkedIn:** [linkedin.com/in/furkanerturk](https://www.linkedin.com/in/furkanerturk/)
-* **Security Policy:** [thevulpes.dev/.well-known/security.txt](https://thevulpes.dev/.well-known/security.txt)
 
 <div align="center">
-  <sub>© 2026 Furkan Ertürk • The Vulpes. Built for resilience and security.</sub>
+  <sub>© 2026 Furkan Ertürk • The Vulpes</sub>
 </div>
